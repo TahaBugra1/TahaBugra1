@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Taha Buğra</h1>
-<h3 align="center">Bilgisayar Mühendisliği Öğrencisi Ve Yazılımla Tutuşup Yanan Bir Birey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahabugra1&label=Profile%20views&color=0e75b6&style=flat" alt="tahabugra1" /> </p>
 
