@@ -2,11 +2,9 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./dark2.svg">
     <source media="(prefers-color-scheme: light)" srcset="./light2.svg">
-    <img alt="Taha Buğra Ak - Profile Header" src="./dark.svg" width="100%">
+    <img alt="Taha Buğra Ak - Profile Header" src="./dark2.svg" width="100%">
   </picture>
-</p>
-
-<p align="center">
+  <br/>
   <a href="https://github.com/TahaBugra1">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
