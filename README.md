@@ -276,30 +276,5 @@ build a small example, test it, and understand what is happening underneath.
 My current focus is becoming a stronger **backend developer**
 while gradually moving deeper into **AI and LLM-based systems**.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TahaBugra1&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahaBugra1&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/TahaBugra1">
-<img src="https://img.shields.io/badge/GitHub-TahaBugra1-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="[https://www.linkedin.com/](https://www.linkedin.com/in/taha-bugra-ak/)">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 </div>
